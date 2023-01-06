@@ -5,8 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rjrajujha.github.io/rjrajujha)](https://rjrajujha.github.io/rjrajujha)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=rjrajujha.rjrajujha)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjrajujha&show_icons=true&locale=en&layout=compact"
-    height="195px" width="495px" alt="rjrajujha's most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjrajujha&show_icons=true&locale=en&layout=compact" height="195px" alt="rjrajujha's most Used Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en" height="195px" width="495px"
-    alt="rjrajujha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en" height="195px" alt="rjrajujha's GitHub Stats" />

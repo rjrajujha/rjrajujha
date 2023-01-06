@@ -68,7 +68,7 @@ fetch('https://api.github.com/users/rjrajujha/repos')
             `
             <div class="gh-repo">
             <div class="gh-repo-id"><a href=${repo.url}> ${repo.name}</a></div><br>
-            <div class="gh-repo-desc">Description: ${repo.description}</a></div><br>
+            <div class="gh-repo-desc">Description: ${repo.description || "Description Not Available"}</a></div><br>
             <div class="gh-repo-created"> Created at ${repo.created_at.split('T')[0]}</div>
             </div>
             `

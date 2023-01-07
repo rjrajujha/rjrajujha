@@ -31,3 +31,13 @@ summary {
     margin: 5px 5px;
     padding: 4px;
 }
+
+.gh-repo-no {
+    margin-left: 2%;
+}
+
+@media screen and (max-width: 692px) {
+    .gh-repo-no {
+        margin-left: 9%;
+    }
+}

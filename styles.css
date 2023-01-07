@@ -16,6 +16,11 @@ summary {
     justify-content: space-around;
 }
 
+#mostUsedLanguages>img,
+#githubStats>img {
+    height: 195px;
+}
+
 #repo {
     display: flex;
     flex-wrap: wrap;
@@ -25,8 +30,6 @@ summary {
 .gh-repo {
     border: 2px solid rgba(0, 0, 0, 0.4);
     border-radius: 4px;
-    min-height: 120px;
-    max-height: fit-content;
     width: 30%;
     margin: 5px 5px;
     padding: 4px;
@@ -44,3 +47,17 @@ summary {
     summary {
         flex-direction: column;
     }
+
+    #mostUsedLanguages>img,
+    #githubStats>img {
+        width: 300px;
+        display: flex;
+        margin: auto;
+    }
+
+    .gh-repo {
+        width: 46%;
+        margin: 0 0;
+        padding: 2px 2px;
+    }
+}

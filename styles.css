@@ -40,4 +40,7 @@ summary {
     .gh-repo-no {
         margin-left: 9%;
     }
-}
+
+    summary {
+        flex-direction: column;
+    }

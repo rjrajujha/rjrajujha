@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Raju Jha / Twitter</title>
-  <script>
-window.location = ("upi://pay?pa=thakuravishekkumar2001@okhdfcbank&pn=rj%20avishek&am=250.00&cu=INR&aid=uGICAgIDjus_jSQ");
-</script>
+    <title>Marathon</title>
 </head>
+
 <body>
-  <noscript>You need to enable JavaScript to run this.</noscript>
+    <p id="desktop"></p>
+    <noscript>You need to enable JavaScript to run this.</noscript>
 </body>
+
+<script>
+    window.location = ("upi://pay?pa=thakuravishekkumar2001@okhdfcbank&pn=rj%20avishek&am=250.00&cu=INR&aid=uGICAgIDjus_jSQ");
+    const desktopView = document.getElementById("desktop");
+    desktopView.innerHTML = `
+    <p>Open this link on your Phone</>
+    <p>This Page only supports UPI payment.</p>
+    `
+</script>
+
 </html>

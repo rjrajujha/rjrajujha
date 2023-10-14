@@ -1,0 +1,12 @@
+Top navigation background: #1a1a18
+Button background: #ac0702
+Nav links defaut: #ffffff
+Nav links hover: #ac0702
+Nav selected/current: #ac0702
+Body paragraph color: #393939
+Heading (h1): #393939
+Heading color (h2): #ac0702
+Line above heading: #ae0b04
+Footer backround: #00304b
+Page alternate section backrojund: #fafafa
+Font Name: Khand (download or use with google web font link: https://fonts.google.com/specimen/Khand OR <link href="https://fonts.cdnfonts.com/css/khand" rel="stylesheet"> ) 

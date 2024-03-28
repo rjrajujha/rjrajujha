@@ -51,12 +51,21 @@ Check out my portfolio website:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rjrajujha&color=blue&style=flat)
 
+<!-- GitHub Stats and Most Used Languages -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
 <!-- GitHub Stats -->
-## GitHub Stats
+<div style="flex-basis: 48%;">
+<h2>GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en)
+</div>
 
 <!-- Most Used Languages -->
-## Most Used Languages
+<div style="flex-basis: 48%;">
+<h2>Most Used Languages</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrajujha&layout=compact)
+</div>
+
+</div>

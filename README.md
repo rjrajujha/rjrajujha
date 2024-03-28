@@ -1,10 +1,25 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/rjrajujha?label=Follow)](https://twitter.com/intent/follow?screen_name=rjrajujha)
-[![Linkedin:](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjrajujha)](https://www.linkedin.com/in/rjrajujha/)
-![GitHub followers](https://img.shields.io/github/followers/rjrajujha?label=Follow&style=social)
+# Hi there, I'm Raju Jha 👋
 
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rjrajujha.github.io/rjrajujha)](https://rjrajujha.github.io/rjrajujha)
-![](https://komarev.com/ghpvc/?username=rjrajujha&color=blue&style=flat)
+Welcome to my GitHub profile! I'm a passionate software developer, always eager to learn and explore new technologies.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjrajujha&show_icons=true&locale=en&layout=compact" height="195px" alt="rjrajujha's most Used Languages" />
+## Connect with Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en" height="195px" alt="rjrajujha's GitHub Stats" />
+[![Twitter Follow](https://img.shields.io/twitter/follow/rjrajujha?label=Follow&style=social)](https://twitter.com/rjrajujha)
+[![LinkedIn Connect](https://img.shields.io/badge/-rjrajujha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjrajujha)](https://www.linkedin.com/in/rjrajujha/)
+[![GitHub Follow](https://img.shields.io/github/followers/rjrajujha?label=Follow&style=social)](https://github.com/rjrajujha)
+
+## Portfolio Website
+
+[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rjrajujha.github.io/rjrajujha)](https://rjrajujha.github.io/rjrajujha)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=rjrajujha&color=blue&style=flat)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrajujha&layout=compact)

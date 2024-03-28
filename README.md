@@ -51,12 +51,39 @@ Check out my portfolio website:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rjrajujha&color=blue&style=flat)
 
-<!-- GitHub Stats -->
-## GitHub Stats
+<!-- GitHub Stats and Most Used Languages -->
+<div class="stats-container">
+    <!-- GitHub Stats -->
+    <div class="stats">
+        <h2>GitHub Stats</h2>
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en)
+    </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrajujha&show_icons=true&locale=en)
+    <!-- Most Used Languages -->
+    <div class="languages">
+        <h2>Most Used Languages</h2>
+        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrajujha&layout=compact)
+    </div>
+</div>
 
-<!-- Most Used Languages -->
-## Most Used Languages
+<style>
+    /* Style for desktop view */
+    .stats-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrajujha&layout=compact)
+    /* Style for mobile view */
+    @media (max-width: 600px) {
+        .stats-container {
+            flex-direction: column;
+        }
+    }
+
+    /* Optional: Adjust individual divs if needed */
+    .stats, .languages {
+        width: 48%; /* Adjust width as needed */
+    }
+
+</style>

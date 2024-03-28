@@ -44,7 +44,7 @@ You can find me on:
 
 Check out my portfolio website:
 
-[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rjrajujha.github.io/rjrajujha)](https://rjrajujha.github.io/rjrajujha)
+[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajujha.portfol.cc)](https://rajujha.portfol.cc)
 
 <!-- Profile Views -->
 ## Profile Views

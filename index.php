@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="d-flex flex-column justify-content-between">
+    <div class="d-flex flex-column justify-content-between min-vh-100">
         <?php include 'includes/header.php'; ?>
 
         <div class="container mt-5">

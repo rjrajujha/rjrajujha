@@ -14,7 +14,6 @@ const Page = () => {
           ]}
         />
         <Hero />
-        <Grid />
       </div>
     </main>
   );

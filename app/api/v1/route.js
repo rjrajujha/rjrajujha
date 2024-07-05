@@ -13,7 +13,7 @@ export const GET = async (req) => {
         // const reqCookies = cookies()
         // console.log(reqCookies)
 
-        return NextResponse.json({ "get": "sucess" }, { status: 200 });
+        return NextResponse.json({ "req": "GET" }, { status: 200 });
 
     } catch (error) {
         return NextResponse.json({ error: error.message }, { status: 400 });
@@ -30,7 +30,7 @@ export const POST = async (req) => {
         // const formData = await req.formData();
         // console.log("Form Data : ", formData);
 
-        return NextResponse.json({ "post": "sucess" }, { status: 200 });
+        return NextResponse.json({ "req": "POST" }, { status: 200 });
 
     } catch (error) {
         return NextResponse.json({ error: error.message }, { status: 400 });

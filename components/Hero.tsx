@@ -33,7 +33,7 @@ const Hero = () => {
             words="Turning Ideas into Vibe-worthy Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hey, I&apos;m Raju, your Go-To Dev</p>
-       <a href="#about">
+          <a href="https://github.com/rjrajujha">
         <MagicButton 
         title="Show my Work"
         icon={<FaLocationArrow />}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Downloader</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+
+    <div class="container mx-auto p-8">
+        <div class="max-w-md mx-auto bg-white rounded-lg shadow-lg p-6 relative">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Download File</h2>
+            <p class="text-gray-600 mb-6">Paste the file URL below and click "Download" to download the file.</p>
+
+            <!-- Input Field -->
+            <input type="url" id="fileUrl" placeholder="Enter file URL here"
+                class="w-full p-3 border border-gray-300 rounded mb-2 focus:outline-none focus:ring-2 focus:ring-blue-500 transition duration-300"
+                oninput="validateUrl()" required>
+
+            <!-- Error Message -->
+            <p id="errorMsg" class="text-red-500 text-sm mb-4 hidden">Please enter a valid file URL.</p>
+
+            <!-- Download Button -->
+            <button id="downloadBtn" onclick="downloadFile()"
+                class="w-full bg-blue-500 text-white py-3 rounded disabled:opacity-50 hover:bg-blue-600 transition duration-300 ease-in-out disabled:cursor-not-allowed"
+                disabled>
+                Download
+            </button>
+        </div>
+    </div>
+
+    <script>
+        function validateUrl() {
+            const fileUrl = document.getElementById('fileUrl').value;
+            const downloadBtn = document.getElementById('downloadBtn');
+            const errorMsg = document.getElementById('errorMsg');
+
+            // Check if the URL is valid
+            try {
+                new URL(fileUrl);
+                errorMsg.classList.add('hidden'); // Hide error
+                downloadBtn.disabled = false;     // Enable download button
+            } catch (_) {
+                downloadBtn.disabled = true;      // Disable button if invalid
+                if (fileUrl.length > 0) {
+                    errorMsg.classList.remove('hidden'); // Show error
+                } else {
+                    errorMsg.classList.add('hidden'); // Hide if no input
+                }
+            }
+        }
+
+        function downloadFile() {
+            const fileUrl = document.getElementById('fileUrl').value;
+            if (fileUrl) {
+                const a = document.createElement('a');
+                a.href = fileUrl;
+                a.download = fileUrl.split('/').pop();  // Use the filename from the URL
+                a.click();
+            }
+        }
+    </script>
+
+</body>
+
+</html>

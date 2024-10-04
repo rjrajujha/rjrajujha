@@ -72,12 +72,13 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "#",
-    displaytitle: "3D Solar System",
+    title: "Next Blog WebApp",
+    des: "Explore how AI, privacy, and technology are reshaping our world, uncovering their impact on our daily lives and future.",
+    img: "/projects/next-blog/img.webp",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://rj-next-blog-two.vercel.app",
+    displayTitle: "Next Blog",
+    activeStatus : true,
   },
   {
     id: 2,
@@ -86,7 +87,8 @@ export const projects = [
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "#",
-    displaytitle: "Yoom - Video Conferencing",
+    displayTitle: "Yoom - Video Conferencing",
+    activeStatus: false,
   },
   {
     id: 3,
@@ -95,7 +97,8 @@ export const projects = [
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "#",
-    displaytitle: "AI Image SaaS",
+    displayTitle: "AI Image SaaS",
+    activeStatus: false,
   },
   {
     id: 4,
@@ -104,7 +107,8 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "#",
-    displaytitle: "Animated Iphone 3D",
+    displayTitle: "Animated Iphone 3D",
+    activeStatus: false,
   },
 ];
 

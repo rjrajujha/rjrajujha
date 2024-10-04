@@ -10,12 +10,14 @@ export const PinContainer = ({
   href,
   className,
   containerClassName,
+  isPublished,
 }: {
   children: React.ReactNode;
   title?: string;
   href?: string;
   className?: string;
   containerClassName?: string;
+  isPublished?: boolean;
 }) => {
   const [transform, setTransform] = useState(
     "translate(-50%,-50%) rotateX(0deg)"
@@ -31,7 +33,7 @@ export const PinContainer = ({
   return (
     <a
       href={href}
-      target="_blank"
+      target={isPublished ? "_blank" : "_self"}
       rel="noopener noreferrer"
       className={cn(
         "relative group/pin z-50 cursor-pointer",

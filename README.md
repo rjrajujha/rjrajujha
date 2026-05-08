@@ -1,61 +1,58 @@
-<!-- Title -->
-<h1 align="center">Hi there, I'm Raju Jha 👋</h1>
+## 🚀 About Me
 
-<!-- Introduction -->
-<p align="center">Welcome to my GitHub profile! I'm a passionate software development engineer, always exploring and learning because this is my passion.</p>
+I'm a Full Stack Software Engineer, focused on building scalable web applications, automation systems, developer tooling, APIs, and Linux-powered infrastructure.
 
-<!-- About Me -->
-## About Me
+I enjoy working across the stack — from frontend experiences with React and Next.js to backend architecture, DevOps workflows, automation systems, and production deployments.
 
-I'm a software development engineer, passionate about building innovative solutions and continuously exploring new technologies. With a focus on web development and cloud computing, I strive to create scalable and efficient software solutions that tackle real-world challenges.
+* 🔭 Currently working on scalable automation and influencer marketing platforms
+* 🌱 Exploring LLM workflows, local inference pipelines, and advanced infrastructure tooling
+* ⚡ Strong focus on backend performance, developer experience, and production reliability
+* 🐧 Linux enthusiast with hands-on VPS, Nginx, DNS, SSL, and deployment experience
+* 🛠️ Passionate about solving real-world engineering problems with practical solutions
 
-<!-- Tech Stack -->
-## Tech Stack
+---
 
-### Primary Languages & Frameworks
-- JavaScript (Node.js, Express.js)
-- React.js
-- Next.js
+## 🧠 Tech Stack
 
-### Secondary Languages & Technologies
-- Python (Data Structures and Algorithms)
-- PHP
+### Languages
 
-### Databases
-- MongoDB
-- MySQL
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square\&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square\&logo=postgresql)
 
-### Tools
-- Git
-- VS Code
-- Postman (API Testing)
+### Frontend
 
-<!-- Connect with Me -->
-## Connect with Me
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square\&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square\&logo=tailwind-css)
 
-You can find me on:
+### Backend & APIs
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rjrajujha?label=Follow&style=social)](https://twitter.com/rjrajujha)
-[![LinkedIn Connect](https://img.shields.io/badge/-rjrajujha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjrajujha)](https://www.linkedin.com/in/rjrajujha/)
-[![GitHub Follow](https://img.shields.io/github/followers/rjrajujha?label=Follow&style=social)](https://github.com/rjrajujha)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square\&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square\&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square\&logo=graphql)
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square\&logo=socketdotio)
 
-<!-- Portfolio Website -->
-## Portfolio Website
+### Databases & Infra
 
-Check out my portfolio website:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square\&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square\&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square\&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square\&logo=github-actions)
 
-[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rjrajujha.github.io/rjrajujha)](https://rjrajujha.github.io/rjrajujha)
+---
 
-<!-- Profile Views -->
-## Profile Views
+> Build practical systems. Ship reliable software. Keep learning.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rjrajujha&color=blue&style=flat)
-
-<!-- Most Used Languages -->
-<div style="flex-basis: 48%;">
-<h2>Most Used Languages</h2>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrajujha&layout=compact)
-</div>
-
-</div>
+<p align="left">
+  <a href="https://github.com/rjrajujha">
+    <img src="https://komarev.com/ghpvc/?username=rjrajujha&label=Profile%20views&color=0e75b6&style=flat" alt="rjrajujha" />
+  </a>
+</p>
